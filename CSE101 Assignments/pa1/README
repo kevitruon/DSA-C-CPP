@@ -1,7 +1,0 @@
-Kevin Truong (1834510)
-ktruon13@ucsc.edu
-
-Files: List.h, List.c, ListTest.c, Lex.c, Makefile
-
-Description: List.h and List.c is an ADT that works as a doubly LinkedList with nodes that can be inserted into the struct.
-Lex.c is tries to take in input and sorts the words in each line into alphabetical order into an output file.
