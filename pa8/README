@@ -1,0 +1,16 @@
+Name: Kevin Truong
+Email: ktruon13@ucsc.edu
+Course: CSE101-02 (Tantalo)
+Programming Assignment 8 (DictionaryADT)
+
+Files Included:
+    -Dictionary.h: Header File of DictionaryADT.
+    -Dictionary.cpp: Implementation of DictionaryADT.
+    -DictionaryTest.cpp: Unit Test file for DictionaryADT.
+    -Order.cpp: Takes input file and output file, then inserts every line into DictionaryADT. Then print inOrderTreeWalk and preOrderTreeWalk.
+    -WordFrequency.cpp: Did not complete.
+
+    -Makefile: Makefile for DictionaryADT.
+
+Note to Grader:
+    -Citation: Code is heavily inspired by pseudocode provided professor Tantalo.

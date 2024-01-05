@@ -1,0 +1,16 @@
+Name: Kevin Truong
+Email: ktruon13@ucsc.edu
+Course: CSE101-02 (Tantalo)
+Programming Assignment 4 (MatrixADT)
+
+Files Included:
+    -List.c: Implementation of ListADT (doubly-linked lists)
+    -List.h: Header file of ListADT
+    -ListTest.c: Runs the ListADT and runs edge-cases
+    -Matrix.c: MatrixADT Implementation derived from ListADT
+    -Matrix.h: MatrixADT header file
+    -MatrixTest.c: Runs the MatrixADT and runs edge-cases.
+    -Sparse.c: Uses the MatrixADT and computes many operations between matrices.
+
+Note to Grader:
+    -Citation: Code is heavily inspired by pseudocode provided by TA (Mahyar Vahabi)
