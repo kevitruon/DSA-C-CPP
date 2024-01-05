@@ -1,0 +1,8 @@
+Kevin Truong (1834510)
+ktruon13@ucsc.edu
+
+Files: List.h, List.c, Graph.h, Graph.c GraphTest.c, FindPath.C,Makefile
+
+Description: List.h and List.c is an ADT that works as a doubly LinkedList with nodes that can be inserted into the struct.
+Graph.h and Graph.c uses the List ADT and creates a graph using vertices, edges, and arcs.
+FindPath.c takes an input file and uses the Graph ADT and prints out the results into an output file.
